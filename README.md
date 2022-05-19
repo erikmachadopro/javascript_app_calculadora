@@ -1,4 +1,4 @@
 # javascript_app_calculadora
 Repositório app Calculadora
 
-Link do projeto: https://erikmachado.github.io/javascript_app_calculadora/
+Link do projeto: https://erikmachadopro.github.io/javascript_app_calculadora/
